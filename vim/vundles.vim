@@ -17,7 +17,10 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'rking/ag.vim'
 
 " Comments
- Plugin 'tomtom/tcomment_vim.git'
+Plugin 'tomtom/tcomment_vim.git'
+
+" Show a git diff in gutter
+Plugin 'airblade/vim-gitgutter'
 
 
 " JavaScript support
